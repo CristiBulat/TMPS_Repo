@@ -10,8 +10,8 @@ import md.utm.tmps.domain.models.*;
 public class Main {
     public static void main(String[] args) {
         System.out.println("╔════════════════════════════════════════════════════════╗");
-        System.out.println("║   TMPS Lab 1: Creational Design Patterns              ║");
-        System.out.println("║   Author: Drumea Vasile                                ║");
+        System.out.println("║   TMPS Lab 1: Creational Design Patterns               ║");
+        System.out.println("║   Author: Bulat Cristian                               ║");
         System.out.println("╚════════════════════════════════════════════════════════╝\n");
 
         ComputerShop shop = new ComputerShop();
